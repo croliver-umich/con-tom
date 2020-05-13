@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/263715491.svg)](https://zenodo.org/badge/latestdoi/263715491)
 # con-tom
 Confocal tomography (con-tom) toolkit is intended to be a robust open source tool for analyzing 3D Confocal images from organ on a chip devices. It was originally designed to aid in measuring the tumor micro-environment in in vivo devices.
 
